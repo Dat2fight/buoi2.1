@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.title{
+   text-align: center;
+   font-size: 20px;
+   padding: 50px;
+}
+.main{
+    display: flex;
+    padding-right: 270px;
+    padding-left: 100px;
+}
+.star{
+    width: 50px;
+    margin-right: 20px;
+}
+.text1{
+    display: flex;
+    margin-top: 90px;
+    align-items: center;
+}
+p{
+    font-size: x-large;
+}
+.button1{
+    width: 160px;
+}
+.button2{
+    width: 160px;
+}
+.button{
+    padding-top: 50px;
+}
